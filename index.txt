@@ -1,0 +1,4 @@
+HELLO|Hello world demo
+CLOCK|A live clock
+SYSINFO|System information
+BROWSE|Web browser (server-rendered)
